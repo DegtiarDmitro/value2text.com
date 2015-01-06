@@ -1,0 +1,6 @@
+DirectoryIndex index.php
+redirect /mvc http://value2text.com
+
+RewriteEngine on
+
+RewriteRule !\.(js|gif|jpg|png|css)$ index.php [QSA,L]

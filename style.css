@@ -1,0 +1,12 @@
+#convertation{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    border: rgb(255,0,0) 6px double;
+    width: 400px;
+    height: 100px;
+    padding: 5px;
+}
+#inpText{
+    font-size: larger;
+}
